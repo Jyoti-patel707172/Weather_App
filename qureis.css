@@ -1,0 +1,28 @@
+@media (max-width: 600px) {
+    .search input {
+        width: 70%;
+    }
+    .search button {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+    .weather-box .temperature {
+        font-size: 32px;
+    }
+    .weather-box .temperature sup {
+        font-size: 14px;
+    }
+    .weather-box .description {
+        font-size: 16px;
+    }
+    .weather-details .material-symbols-outlined {
+        font-size: 20px;
+    }
+    .weather-details .text {
+        font-size: 12px;
+    }
+    .text span {
+        font-size: 16px;
+    }
+}
